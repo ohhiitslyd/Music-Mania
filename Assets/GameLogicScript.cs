@@ -35,7 +35,7 @@ public class GameLogicScript : MonoBehaviour
         clipOrder.Add(6); 
         clipOrder.Add(7);
         
-        //clipOrder = clipOrder.OrderBy(i => Random.value).ToList(); //randomize the order
+        clipOrder = clipOrder.OrderBy(i => Random.value).ToList(); //randomize the order
 
         for (int i = 0; i < cubes.Count; i++) //assign each cube on the platform to have a random audio based on the clipOrder
         {

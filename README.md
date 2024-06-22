@@ -1,4 +1,4 @@
-# DALI-3D-Dev-Challenge - Music Mania
+# Music Mania
 Created by Lydia Jin in Unity with the theme of "music" in mind, this game features an interactive 3D platformer showcasing skills in object manipulation, scorekeeping, particle systems, and more.
 
 # Game Description
